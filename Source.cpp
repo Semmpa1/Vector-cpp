@@ -27,7 +27,7 @@ int main() {
 	contfill(vect);
 	print(vect);
 
-	std::cout << *vect.begin() << std::endl;
+	// write your own tests here
 
 	print(vect);
 }
